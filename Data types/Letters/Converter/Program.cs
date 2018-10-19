@@ -22,7 +22,7 @@ namespace Converter
             switch (system)
             {
                 case "meter":
-                    kilo = distance/1000;
+                    kilo = distance / 1000;
                     mili = distance / 1609;
                     break;
                 case "mili":
@@ -44,7 +44,9 @@ namespace Converter
                     time = time / 60;
                     break; 
             }
-            Console.WriteLine($"Spead {0} km/h or {1} mi/h", (kilo/time), (mili/time));
+            double speadk = kilo / time;
+            double speadm = mili / time;
+            Console.WriteLine($"Spead {speadk} km/h or {speadm} mi/h");
             Console.ReadKey();
         }
     }
