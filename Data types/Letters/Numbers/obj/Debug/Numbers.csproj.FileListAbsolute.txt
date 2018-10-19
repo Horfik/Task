@@ -1,0 +1,7 @@
+D:\Myproject\Task\Letters\Numbers\bin\Debug\Numbers.exe.config
+D:\Myproject\Task\Letters\Numbers\bin\Debug\Numbers.exe
+D:\Myproject\Task\Letters\Numbers\bin\Debug\Numbers.pdb
+D:\Myproject\Task\Letters\Numbers\obj\Debug\Numbers.csprojAssemblyReference.cache
+D:\Myproject\Task\Letters\Numbers\obj\Debug\Numbers.csproj.CoreCompileInputs.cache
+D:\Myproject\Task\Letters\Numbers\obj\Debug\Numbers.exe
+D:\Myproject\Task\Letters\Numbers\obj\Debug\Numbers.pdb

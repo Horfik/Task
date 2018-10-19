@@ -1,0 +1,7 @@
+D:\Myproject\Task\Letters\Sphere\bin\Debug\Sphere.exe.config
+D:\Myproject\Task\Letters\Sphere\bin\Debug\Sphere.exe
+D:\Myproject\Task\Letters\Sphere\bin\Debug\Sphere.pdb
+D:\Myproject\Task\Letters\Sphere\obj\Debug\Sphere.csprojAssemblyReference.cache
+D:\Myproject\Task\Letters\Sphere\obj\Debug\Sphere.csproj.CoreCompileInputs.cache
+D:\Myproject\Task\Letters\Sphere\obj\Debug\Sphere.exe
+D:\Myproject\Task\Letters\Sphere\obj\Debug\Sphere.pdb

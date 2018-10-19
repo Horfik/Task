@@ -1,0 +1,7 @@
+D:\Myproject\Task\Letters\Letters\bin\Debug\Letters.exe.config
+D:\Myproject\Task\Letters\Letters\bin\Debug\Letters.exe
+D:\Myproject\Task\Letters\Letters\bin\Debug\Letters.pdb
+D:\Myproject\Task\Letters\Letters\obj\Debug\Letters.csprojAssemblyReference.cache
+D:\Myproject\Task\Letters\Letters\obj\Debug\Letters.csproj.CoreCompileInputs.cache
+D:\Myproject\Task\Letters\Letters\obj\Debug\Letters.exe
+D:\Myproject\Task\Letters\Letters\obj\Debug\Letters.pdb

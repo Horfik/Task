@@ -1,0 +1,6 @@
+D:\Myproject\Task\Letters\Circle\bin\Debug\Circle.exe.config
+D:\Myproject\Task\Letters\Circle\bin\Debug\Circle.exe
+D:\Myproject\Task\Letters\Circle\bin\Debug\Circle.pdb
+D:\Myproject\Task\Letters\Circle\obj\Debug\Circle.csproj.CoreCompileInputs.cache
+D:\Myproject\Task\Letters\Circle\obj\Debug\Circle.exe
+D:\Myproject\Task\Letters\Circle\obj\Debug\Circle.pdb

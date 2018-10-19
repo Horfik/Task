@@ -1,0 +1,6 @@
+D:\Myproject\Task\Letters\Function\bin\Debug\Function.exe.config
+D:\Myproject\Task\Letters\Function\bin\Debug\Function.exe
+D:\Myproject\Task\Letters\Function\bin\Debug\Function.pdb
+D:\Myproject\Task\Letters\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+D:\Myproject\Task\Letters\Function\obj\Debug\Function.exe
+D:\Myproject\Task\Letters\Function\obj\Debug\Function.pdb

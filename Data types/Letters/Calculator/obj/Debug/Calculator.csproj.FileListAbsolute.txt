@@ -1,0 +1,7 @@
+D:\Myproject\Task\Letters\Calculator\bin\Debug\Calculator.exe.config
+D:\Myproject\Task\Letters\Calculator\bin\Debug\Calculator.exe
+D:\Myproject\Task\Letters\Calculator\bin\Debug\Calculator.pdb
+D:\Myproject\Task\Letters\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Myproject\Task\Letters\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Myproject\Task\Letters\Calculator\obj\Debug\Calculator.exe
+D:\Myproject\Task\Letters\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,7 @@
+D:\Myproject\Task\Letters\Character\obj\Debug\9 Character.csprojAssemblyReference.cache
+D:\Myproject\Task\Letters\Character\obj\Debug\9 Character.csproj.CoreCompileInputs.cache
+D:\Myproject\Task\Letters\Character\bin\Debug\Character.exe.config
+D:\Myproject\Task\Letters\Character\bin\Debug\Character.exe
+D:\Myproject\Task\Letters\Character\bin\Debug\Character.pdb
+D:\Myproject\Task\Letters\Character\obj\Debug\Character.exe
+D:\Myproject\Task\Letters\Character\obj\Debug\Character.pdb

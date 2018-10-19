@@ -1,0 +1,7 @@
+D:\Myproject\Task\Letters\Converter\bin\Debug\Converter.exe.config
+D:\Myproject\Task\Letters\Converter\bin\Debug\Converter.exe
+D:\Myproject\Task\Letters\Converter\bin\Debug\Converter.pdb
+D:\Myproject\Task\Letters\Converter\obj\Debug\7 Converter.csprojAssemblyReference.cache
+D:\Myproject\Task\Letters\Converter\obj\Debug\7 Converter.csproj.CoreCompileInputs.cache
+D:\Myproject\Task\Letters\Converter\obj\Debug\Converter.exe
+D:\Myproject\Task\Letters\Converter\obj\Debug\Converter.pdb
