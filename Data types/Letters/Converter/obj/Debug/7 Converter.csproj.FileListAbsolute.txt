@@ -8,7 +8,6 @@ D:\Myproject\Task\Letters\Converter\obj\Debug\Converter.pdb
 C:\Users\user\Music\Task\Data types\Letters\Converter\bin\Debug\Converter.exe.config
 C:\Users\user\Music\Task\Data types\Letters\Converter\bin\Debug\Converter.exe
 C:\Users\user\Music\Task\Data types\Letters\Converter\bin\Debug\Converter.pdb
-C:\Users\user\Music\Task\Data types\Letters\Converter\obj\Debug\7 Converter.csprojAssemblyReference.cache
 C:\Users\user\Music\Task\Data types\Letters\Converter\obj\Debug\7 Converter.csproj.CoreCompileInputs.cache
 C:\Users\user\Music\Task\Data types\Letters\Converter\obj\Debug\Converter.exe
 C:\Users\user\Music\Task\Data types\Letters\Converter\obj\Debug\Converter.pdb

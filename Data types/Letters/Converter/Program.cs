@@ -10,11 +10,11 @@ namespace Converter
     {
         static void Main(string[] args)
         {
-            Console.Write("Chose meter, mili, kilomeeter: ");
+            Console.Write("Chose meter, miles, kilomeeter: ");
             string system = Console.ReadLine();
             Console.Write("enter distance: ");
             double distance = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Chose seconds, minuts, hours: ");
+            Console.Write("Chose seconds, minutes, hours: ");
             string timesys = Console.ReadLine();
             Console.Write("enter time: ");
             double time = Convert.ToDouble(Console.ReadLine());
@@ -25,13 +25,16 @@ namespace Converter
                     kilo = distance / 1000;
                     mili = distance / 1609;
                     break;
-                case "mili":
+                case "miles":
                     kilo = distance*1.6;
                     mili = distance;
                     break;
                 case "kilometer":
                     kilo = distance;
                     mili = distance / 1.6;
+                    break;
+                default:
+                    Console.WriteLine("wrong typed");
                     break;
             }
 
@@ -40,13 +43,18 @@ namespace Converter
                 case "seconds":
                     time = time / 3600;
                     break;
-                case "minuts":
+                case "minutes":
                     time = time / 60;
-                    break; 
+                    break;
+                case "hours":
+                    break;
+                default:
+                    Console.WriteLine("wrong typed");
+                    break;
             }
             double speadk = kilo / time;
             double speadm = mili / time;
-            Console.WriteLine($"Spead {speadk} km/h or {speadm} mi/h");
+            Console.WriteLine(speadk > 0 & speadm > 0 ? $"Spead {speadk} km/h or {speadm} mi/h" : "Enter error");
             Console.ReadKey();
         }
     }

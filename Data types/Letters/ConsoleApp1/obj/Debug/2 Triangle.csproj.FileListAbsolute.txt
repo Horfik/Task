@@ -1,0 +1,7 @@
+C:\Users\user\Music\Task\Data types\Letters\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\user\Music\Task\Data types\Letters\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\user\Music\Task\Data types\Letters\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\user\Music\Task\Data types\Letters\ConsoleApp1\obj\Debug\2 Triangle.csprojAssemblyReference.cache
+C:\Users\user\Music\Task\Data types\Letters\ConsoleApp1\obj\Debug\2 Triangle.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Task\Data types\Letters\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\user\Music\Task\Data types\Letters\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

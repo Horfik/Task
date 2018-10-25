@@ -1,0 +1,6 @@
+C:\Users\user\Music\Task\Data types\Letters\Function\bin\Debug\Function.exe.config
+C:\Users\user\Music\Task\Data types\Letters\Function\bin\Debug\Function.exe
+C:\Users\user\Music\Task\Data types\Letters\Function\bin\Debug\Function.pdb
+C:\Users\user\Music\Task\Data types\Letters\Function\obj\Debug\6 Function.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Task\Data types\Letters\Function\obj\Debug\Function.exe
+C:\Users\user\Music\Task\Data types\Letters\Function\obj\Debug\Function.pdb

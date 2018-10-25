@@ -1,0 +1,6 @@
+C:\Users\user\Music\Task\Data types\Letters\Sphere\bin\Debug\Sphere.exe.config
+C:\Users\user\Music\Task\Data types\Letters\Sphere\bin\Debug\Sphere.exe
+C:\Users\user\Music\Task\Data types\Letters\Sphere\bin\Debug\Sphere.pdb
+C:\Users\user\Music\Task\Data types\Letters\Sphere\obj\Debug\8 Sphere.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Task\Data types\Letters\Sphere\obj\Debug\Sphere.exe
+C:\Users\user\Music\Task\Data types\Letters\Sphere\obj\Debug\Sphere.pdb

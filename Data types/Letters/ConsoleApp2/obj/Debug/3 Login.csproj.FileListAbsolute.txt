@@ -4,3 +4,9 @@ D:\Myproject\Task\Letters\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
 D:\Myproject\Task\Letters\ConsoleApp2\obj\Debug\3 Login.csproj.CoreCompileInputs.cache
 D:\Myproject\Task\Letters\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 D:\Myproject\Task\Letters\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\user\Music\Task\Data types\Letters\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\user\Music\Task\Data types\Letters\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\user\Music\Task\Data types\Letters\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\user\Music\Task\Data types\Letters\ConsoleApp2\obj\Debug\3 Login.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Task\Data types\Letters\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\user\Music\Task\Data types\Letters\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

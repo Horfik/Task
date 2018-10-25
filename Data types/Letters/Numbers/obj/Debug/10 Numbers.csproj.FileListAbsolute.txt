@@ -1,0 +1,6 @@
+C:\Users\user\Music\Task\Data types\Letters\Numbers\bin\Debug\Numbers.exe.config
+C:\Users\user\Music\Task\Data types\Letters\Numbers\bin\Debug\Numbers.exe
+C:\Users\user\Music\Task\Data types\Letters\Numbers\bin\Debug\Numbers.pdb
+C:\Users\user\Music\Task\Data types\Letters\Numbers\obj\Debug\10 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Task\Data types\Letters\Numbers\obj\Debug\Numbers.exe
+C:\Users\user\Music\Task\Data types\Letters\Numbers\obj\Debug\Numbers.pdb

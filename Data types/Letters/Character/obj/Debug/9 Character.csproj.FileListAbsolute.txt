@@ -5,3 +5,9 @@ D:\Myproject\Task\Letters\Character\bin\Debug\Character.exe
 D:\Myproject\Task\Letters\Character\bin\Debug\Character.pdb
 D:\Myproject\Task\Letters\Character\obj\Debug\Character.exe
 D:\Myproject\Task\Letters\Character\obj\Debug\Character.pdb
+C:\Users\user\Music\Task\Data types\Letters\Character\bin\Debug\Character.exe.config
+C:\Users\user\Music\Task\Data types\Letters\Character\bin\Debug\Character.exe
+C:\Users\user\Music\Task\Data types\Letters\Character\bin\Debug\Character.pdb
+C:\Users\user\Music\Task\Data types\Letters\Character\obj\Debug\9 Character.csproj.CoreCompileInputs.cache
+C:\Users\user\Music\Task\Data types\Letters\Character\obj\Debug\Character.exe
+C:\Users\user\Music\Task\Data types\Letters\Character\obj\Debug\Character.pdb

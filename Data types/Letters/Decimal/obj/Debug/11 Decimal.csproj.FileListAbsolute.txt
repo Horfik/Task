@@ -8,7 +8,6 @@ D:\Myproject\Task\Letters\Decimal\obj\Debug\Decimal.pdb
 C:\Users\user\Music\Task\Data types\Letters\Decimal\bin\Debug\Decimal.exe.config
 C:\Users\user\Music\Task\Data types\Letters\Decimal\bin\Debug\Decimal.exe
 C:\Users\user\Music\Task\Data types\Letters\Decimal\bin\Debug\Decimal.pdb
-C:\Users\user\Music\Task\Data types\Letters\Decimal\obj\Debug\11 Decimal.csprojAssemblyReference.cache
 C:\Users\user\Music\Task\Data types\Letters\Decimal\obj\Debug\11 Decimal.csproj.CoreCompileInputs.cache
 C:\Users\user\Music\Task\Data types\Letters\Decimal\obj\Debug\Decimal.exe
 C:\Users\user\Music\Task\Data types\Letters\Decimal\obj\Debug\Decimal.pdb
